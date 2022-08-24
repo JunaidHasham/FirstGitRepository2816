@@ -1,1 +1,1 @@
-Hello World. A simple file.
+Hello World. A simple file for demonstration purpose.
