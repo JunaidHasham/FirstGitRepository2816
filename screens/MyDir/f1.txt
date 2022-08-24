@@ -1,1 +1,1 @@
-This is file f1. A temporary file.
+This is file f1. A temporary file. Yes/No ?
